@@ -8,7 +8,7 @@ package-lock.json
 *.pyc
 auto_gpt_workspace/*
 *.mpeg
-.env
+*.env
 azure.yaml
 ai_settings.yaml
 last_run_ai_settings.yaml
